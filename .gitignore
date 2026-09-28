@@ -1,0 +1,5 @@
+.venv/
+.search_cache/
+datasets/
+runs/
+weights/

@@ -1,0 +1,5 @@
+streamlit>=1.39
+requests>=2.32
+Pillow>=10.4
+ImageHash>=4.3
+streamlit-drawable-canvas >= 0.12
